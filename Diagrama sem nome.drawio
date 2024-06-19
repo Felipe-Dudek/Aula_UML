@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T22:17:23.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="U7HDyJKiiiKrD4SB0mp6" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T23:03:53.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="R26UV1Kvwo2cpUwmg3F5" version="24.5.5" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ifXZeLSGkbDsbI-T_0BC-5" value="Insere Operador" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ifXZeLSGkbDsbI-T_0BC-5" value="Incluir Operador" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="20" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ifXZeLSGkbDsbI-T_0BC-6" value="Operador" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -17,7 +17,7 @@
           <mxGeometry x="250" y="80" width="100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="ifXZeLSGkbDsbI-T_0BC-14" value="Insere informações do operador" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="ifXZeLSGkbDsbI-T_0BC-20">
-          <mxGeometry x="-0.1111" width="80" relative="1" as="geometry">
+          <mxGeometry x="-0.1069" width="80" relative="1" as="geometry">
             <mxPoint x="120" y="200" as="sourcePoint" />
             <mxPoint x="300" y="200" as="targetPoint" />
             <mxPoint as="offset" />
@@ -30,7 +30,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ifXZeLSGkbDsbI-T_0BC-16" value="Clica no botão para inserir" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="ifXZeLSGkbDsbI-T_0BC-20">
+        <mxCell id="ifXZeLSGkbDsbI-T_0BC-16" value="Clica no botão para Incluir Operador" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="ifXZeLSGkbDsbI-T_0BC-20">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="120" y="230" as="sourcePoint" />
             <mxPoint x="300" y="230" as="targetPoint" />
@@ -58,7 +58,7 @@
           <mxGeometry x="960" y="80" width="100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="ifXZeLSGkbDsbI-T_0BC-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ifXZeLSGkbDsbI-T_0BC-27">
-          <mxGeometry x="45" y="160" width="10" height="190" as="geometry" />
+          <mxGeometry x="45" y="160" width="10" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ifXZeLSGkbDsbI-T_0BC-29" value="Tela" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="780" y="80" width="100" height="560" as="geometry" />
